@@ -1,0 +1,4 @@
+Data too large to store in repo - original sources found here:
+
+https://www.kaggle.com/datasets/vbookshelf/computed-tomography-ct-images
+https://physionet.org/content/ct-ich/1.3.1/
